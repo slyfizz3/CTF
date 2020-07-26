@@ -1,6 +1,6 @@
 ## Catgirlbreach (rebyC)
 
-Author: Stanislav Rakovskiy (@hexadec1mal)
+Author: Stanislav Rakovskiy (@hexadec1mal)[https://t.me/hexadec1mal]
 
 CatGirl Industrials was breached by a malware attack from their competitors. They have lost all their secret flags to the encrypting ransomware! Can you decrypt their most precious flag?
 
