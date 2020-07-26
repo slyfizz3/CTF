@@ -11,7 +11,7 @@ Download: [catgirlbreach.tar.gz](catgirlbreach.tar.gz)
 ## Solution
 
 1. Extract the file [do_not_pet_me.exe](do_not_pet_me.exe)
-2. Extract main.exe from [madoka.bat](./madoka.bat)
+2. Extract main.exe from madoka.bat
 3. Use [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) to extract [main.py](./main.py) from main.exe
 4. Yhan you can get another source code by replace exec to print and than you can get [extract.py][./extract.py)
 5. finally just reverse the source code([reversable.py](./reversable.py)) and you can get the [flag](./flag.png) 
