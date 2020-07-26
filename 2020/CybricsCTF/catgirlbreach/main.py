@@ -7,6 +7,5 @@ SO_CUTE = b'bLQ"yU\x01>\x7fST.\x7f,+$fQN?\x7f\x01B9rQD>\x06+H {NS9+NR@\x01J\x01p
 uncute = []
 for i in range(len(SO_CUTE)):
     uncute.append(SO_CUTE[i] ^ evergarden[(i % len(evergarden))])
-uncute=''.join([chr(i)for i in uncute])
-print(uncute)
-#exec(compile(bytes(uncute), 'cute_pswd', 'exec'))	
+
+exec(compile(bytes(uncute), 'cute_pswd', 'exec'))
